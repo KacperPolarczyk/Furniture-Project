@@ -154,10 +154,10 @@ img {
 
 /* FEATURES */
 .features-icon {
-  stroke: #087f5b;
-  width: 32px;
-  height: 32px;
-  margin-bottom: 16px;
+  stroke: #087f5b !important;
+  width: 32px !important;
+  height: 32px !important;
+  margin-bottom: 16px !important;
 }
 
 .features-title {
@@ -221,9 +221,9 @@ h3 {
 }
 
 .chair-icon {
-  stroke: #087f5b;
-  width: 24px;
-  height: 24px;
+  stroke: #087f5b !important;
+  width: 24px !important;
+  height: 24px !important;
 }
 
 .chair-price {
